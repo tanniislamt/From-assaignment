@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.dom-events-text h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.form-area form input{
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px;
+    height: 40px;
+    border-width: 2px;
+    border-radius: 6px;
+}
+.form-area form button{
+    width: 100%;
+    margin-top: 30px;
+    height: 30px;
+    background-color: bisque;
+    color: #000;
+}
